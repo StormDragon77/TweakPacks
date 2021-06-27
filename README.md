@@ -5,4 +5,4 @@ These are all separate packs from my main project, Fixed Inconsistencies and the
 
 Related projects: 
 
-  Fixed Inconsistencies: https://github.com/StormDragon77/FixedInconsistencies, https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/
+Stormilla: https://github.com/StormDragon77/Stormilla, https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/
