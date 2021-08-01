@@ -1,4 +1,4 @@
-Contains old versions of my tweak packs
+Contains old versions of my tweak packs (Sorry it's not organized so just use CTRL + F if you want to quickly find something)
 
 Java files end in .zip, bedrock files end in .mcpack
 
