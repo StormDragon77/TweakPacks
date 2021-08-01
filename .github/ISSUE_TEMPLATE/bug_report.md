@@ -14,7 +14,7 @@ A clear and concise description of what the bug is.
 The name of one or more of the tweak packs that is causing you problems
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to replicate the behavior so I can see the bug myself:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
