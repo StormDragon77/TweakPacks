@@ -5,9 +5,9 @@ These are all separate packs from my main project, Stormilla and these packs get
 
 -----
 # List of Tweak Packs:
-- Binoculars*
+- Binoculars
 - Brown Leather
-- Chest Tweaks
+- Chest Tweaks**
 - Copper-Like Iron Ore
 - Distinct Bedrock
 - Door Tweaks*
@@ -15,14 +15,15 @@ These are all separate packs from my main project, Stormilla and these packs get
 - No Z-Fighting*
 - Purple Ender
 - Semi-Iron Torches
-- Shinier Rails
+- Shinier Rails**
 - Storm's Dark Mode*
-- Storm's HUD
-- Tileable Prismarine Bricks
+- Storm's HUD**
+- Tileable Prismarine Bricks**
 - Updated Blaze Rods
 - White Item Frames*
 
 \* = Not yet available on Bedrock
+\** = Available on Bedrock but port not made by me so updates are not guaranteed.
 
 -----
 # Related projects: 
