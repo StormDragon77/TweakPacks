@@ -23,6 +23,7 @@ These are all separate packs from my main project, Stormilla and these packs get
 - White Item Frames*
 
 \* = Not yet available on Bedrock
+
 \** = Available on Bedrock but port not made by me so updates are not guaranteed.
 
 -----
