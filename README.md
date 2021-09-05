@@ -29,4 +29,6 @@ These are all separate packs from my main project, Stormilla and these packs get
 -----
 # Related projects: 
 
-Stormilla: https://github.com/StormDragon77/Stormilla, https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/
+**Stormilla**
+- GitHub Page: https://github.com/StormDragon77/Stormilla
+- PMC Page: https://www.planetminecraft.com/texture-pack/fixed-inconsistencies/
