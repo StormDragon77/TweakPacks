@@ -7,7 +7,7 @@ These are all separate packs from my main project, Stormilla and these packs get
 # List of Tweak Packs:
 - Binoculars
 - Brown Leather
-- Chest Tweaks**
+- Chest Tweaks***
 - Copper-Like Iron Ore
 - Distinct Bedrock
 - Door Tweaks*
@@ -25,6 +25,8 @@ These are all separate packs from my main project, Stormilla and these packs get
 \* = Not yet available on Bedrock
 
 \** = Available on Bedrock but port not made by me so updates are not guaranteed.
+
+\*** = Discontinued
 
 -----
 # Related projects: 
