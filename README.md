@@ -16,7 +16,7 @@ These are all separate packs from my main project, Stormilla and these packs get
 - Purple Ender
 - Semi-Iron Torches
 - Shinier Rails**
-- Storm's Dark Mode*
+- Stormilla Dark Mode*
 - Storm's HUD**
 - Tileable Prismarine Bricks**
 - Updated Blaze Rods
