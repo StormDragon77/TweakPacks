@@ -11,7 +11,7 @@ These are all separate packs from my main project, Stormilla and these packs get
 - Copper-Like Iron Ore
 - Distinct Bedrock
 - Door Tweaks*
-- Fading Glint (Enchantment Tweaks)*
+- Fading Enchantment Glint*
 - No Z-Fighting*
 - Purple Ender
 - Semi-Iron Torches
