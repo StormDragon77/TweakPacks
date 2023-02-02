@@ -15,6 +15,7 @@ These are all separate packs from my main project, Stormilla and these packs get
 - No Z-Fighting*
 - Purple Ender
 - Semi-Iron Torches
+- Shelves GUI*
 - Shinier Rails**
 - Stormilla Dark Mode*
 - Storm's HUD**
